@@ -8,6 +8,7 @@ class Search extends StatefulWidget {
   State<Search> createState() => _SearchState();
 }
 
+//Search Bar
 class _SearchState extends State<Search> {
   @override
   Widget build(BuildContext context) {
